@@ -30,8 +30,7 @@ The following behaviors should be expected from the app.
 
 ## Future Functionality
 - [ ] Add test
-- [ ] Show cards that have sample journal script.
-- [ ] PHQ9 score card with links to resources.
+- [x] PHQ9 score card with links to resources.
 
 # Preview
 Here are some screen captures of the application.
