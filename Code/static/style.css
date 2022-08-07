@@ -1,0 +1,176 @@
+/* Home Page */
+.bg{
+    background-image: url('/static/images/storm.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+#titleHead {
+    font-family: 'Proto', serif;
+    text-shadow: 3px 3px #050505;
+    color: #f8f8f8;
+}
+
+
+#daily_quote {
+    padding-top: 200px;
+    font-size: 5rem;
+    font-family: 'Proto', serif;
+    text-align: center;
+    color: #f8f8f8;
+    text-shadow: 3px 3px #050505
+
+}
+
+#quote{
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    color: #f8f8f8;
+    text-align: center;
+}
+
+
+/* QuickJot Page */
+#qjBG{
+    background-color: #011936;
+    width: 100vw;
+    height: 100vh;
+}
+#qjTitle{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+#canvas{
+    display: flex;
+    justify-content: center;
+}
+#quickjot{
+    width: 70vw;
+    height: 50vh;
+    background-color: #EBECF0;
+    border-color: #050505;
+    border-radius: 5px;
+    box-sizing: content-box;
+}
+
+/* Register Page */
+
+#regBG{
+    background-color: #BFC0BE;
+    width: 100vw;
+    height: 100vh;
+}
+#regTitle{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    color: black;
+}
+
+#loginBG{
+    background-color: #BFC0BE;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+#loginTitle{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    color: black;
+}
+
+/* Home Page */
+
+#homeBG {
+    background-color: #BFC0BE;
+}
+
+#userImage {
+    width: 240px;
+    height: 240px;
+}
+/* Journal */
+#journalBG{
+    background-color: #011936;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+#journalHead{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    color: white;
+}
+
+#journal {
+    width: 70vw;
+    height: 100vh;
+}
+
+#journal label{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#journal #title {
+
+    width: 72vw;
+    margin-bottom: 25px;
+}
+
+#journal textarea{
+
+box-sizing: content-box;
+height: 50vh;
+}
+
+
+/* PHQ9 */
+
+hr {
+    border: 2px solid #D1D1D1;
+    border-radius: 5px;
+}
+
+#phq9BG {
+    background-color: #011936;
+    width: 100vw;
+    height: 100vh;
+}
+
+#notice{
+    color: #D1D1D1;
+}
+
+#imp{
+    color: #D1D1D1;
+    font-weight: bold;
+    
+}
+
+#phqResult {
+    color: #D1D1D1;
+    font-size: 3rem;
+}
+
+.questions{
+    color: #D1D1D1;
+    margin-bottom: 10px;
+    font-size: 22px;
+}
