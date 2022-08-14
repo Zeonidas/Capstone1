@@ -29,8 +29,8 @@ The following behaviors should be expected from the app.
 13. Username should be a minimum of 4 characters and max of 15 characters.
 
 ## Future Functionality
-- [ ] Add test
-- [x] PHQ9 score card with links to resources.
+- [x] Deploy to Heroku
+- [x] PHQ9 score card and provide score form test.
 
 # Preview
 Here are some screen captures of the application.
